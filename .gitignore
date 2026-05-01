@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.pyc
+data/loan.csv
+data/application_train.csv
+data/german_credit_data.csv
+outputs/models/*.keras
